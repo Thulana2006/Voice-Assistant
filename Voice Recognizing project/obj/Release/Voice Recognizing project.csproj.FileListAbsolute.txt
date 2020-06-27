@@ -1,0 +1,84 @@
+E:\Programming\C#\Projects\Voice Recognizing project\Voice Recognizing project\bin\Release\Voice Recognizing project.exe.config
+E:\Programming\C#\Projects\Voice Recognizing project\Voice Recognizing project\bin\Release\Voice Recognizing project.exe
+E:\Programming\C#\Projects\Voice Recognizing project\Voice Recognizing project\bin\Release\Voice Recognizing project.pdb
+E:\Programming\C#\Projects\Voice Recognizing project\Voice Recognizing project\bin\Release\MetroFramework.Design.dll
+E:\Programming\C#\Projects\Voice Recognizing project\Voice Recognizing project\bin\Release\MetroFramework.dll
+E:\Programming\C#\Projects\Voice Recognizing project\Voice Recognizing project\bin\Release\MetroFramework.Fonts.dll
+E:\Programming\C#\Projects\Voice Recognizing project\Voice Recognizing project\bin\Release\Xander.UI.Web.dll
+E:\Programming\C#\Projects\Voice Recognizing project\Voice Recognizing project\bin\Release\Xander.UI.Web.pdb
+E:\Programming\C#\Projects\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice_Recognizing_project.Form1.resources
+E:\Programming\C#\Projects\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice_Recognizing_project.Properties.Resources.resources
+E:\Programming\C#\Projects\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice Recognizing project.csproj.GenerateResource.Cache
+E:\Programming\C#\Projects\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice Recognizing project.exe
+E:\Programming\C#\Projects\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice Recognizing project.pdb
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Voice Recognizing project.exe.config
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Voice Recognizing project.exe
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Voice Recognizing project.pdb
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Guna.UI2.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\MetroColorPicker.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\MetroFramework.Design.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\MetroFramework.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Xander.UI.Web.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.Core.dll
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Bunifu_UI_v1.5.3.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\bin\Release\Xander.UI.Web.pdb
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice_Recognizing_project.frmContent.resources
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice_Recognizing_project.Form1.resources
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice_Recognizing_project.frmMusicPlayer.resources
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice_Recognizing_project.Properties.Resources.resources
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice_Recognizing_project.Settings.resources
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice Recognizing project.csproj.GenerateResource.cache
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice Recognizing project.csproj.CoreCompileInputs.cache
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice Recognizing project.csproj.CopyComplete
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice Recognizing project.exe
+C:\Users\Thulana\Desktop\Voice Recognizing project\Voice Recognizing project\obj\Release\Voice Recognizing project.pdb
