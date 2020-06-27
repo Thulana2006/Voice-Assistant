@@ -4,10 +4,10 @@
 Run the application
 -----
 Updated Release
-  >Run --> Voice Assistant/bin/Voice Assistant.exe
+  >Run --> Voice Recognizing Project/bin/Debug/Voice Recognizing Project.exe
 
 My First Release
-  >Run --> Voice Assistant/Release/Voice Assistant.exe
+  >Run --> Voice Recognizing Project/bin/Release/Voice Recognizing Project.exe
 
 Installation Process
 ---
